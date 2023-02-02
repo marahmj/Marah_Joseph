@@ -13,10 +13,10 @@ const Contact = () => {
         </p>
 
         <p className="py-2">
-          <span className="font-bold">Email:</span> coderamrin@gmail.com
+          <span className="font-bold">Email:</span> kargbosamuelf@gmail.com
         </p>
         <p className="py-2">
-          <span className="font-bold">Phone:</span> +88 01624-890723
+          <span className="font-bold">Phone:</span> +232 88049201
         </p>
       </div>
     </section>
