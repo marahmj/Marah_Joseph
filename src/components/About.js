@@ -11,7 +11,7 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Samuel F Kargbo ohters call me S.F.K. I am a
+            Hi, My Name Is Marah Joseph Konday  I am a
             Frontend Developer. I build beautifull websites with React and
             Tailwind CSS.
           </p>
