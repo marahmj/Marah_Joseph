@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImg from "../assets/about-img.png";
+import AboutImg from "../assets/computer.jpeg";
 
 const About = () => {
   return (
@@ -11,7 +11,7 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
+            Hi, My Name Is Samuel F Kargbo ohters call me S.F.K. I am a
             Frontend Developer. I build beautifull websites with React and
             Tailwind CSS.
           </p>
@@ -28,7 +28,7 @@ const About = () => {
           </p>
         </div>
 
-        <div className="about-img">
+        <div className="computer">
           <img
             src={AboutImg}
             alt="coding illustration"
